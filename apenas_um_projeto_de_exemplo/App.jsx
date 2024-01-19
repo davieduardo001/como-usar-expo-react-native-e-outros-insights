@@ -6,7 +6,7 @@ import {styles} from './src/styles/styles';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Nosso primeiro appzinho :P</Text>
+      <Text>nosso primeiro app!!</Text>
       <Button text='button text'></Button>
     </View>
   );
